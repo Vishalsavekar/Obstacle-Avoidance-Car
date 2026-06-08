@@ -22,7 +22,7 @@ An autonomous robot car that detects obstacles using an ultrasonic sensor and au
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](circuit_image(2).png)
 
 ## Project Images
 
